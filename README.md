@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALDMC3215
 - 👀 I’m interested in Coding and Gaming 🎮
-- 🌱 I’m currently learning python programming language. 
+- 🌱 I'm trying to be a good developer on Android Studio.
 - 💞️ I’m looking to collaborate on coding comunity.
 - 📫 How to reach me 
   + Email: aldmc4543@gmail.com
