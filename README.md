@@ -22,4 +22,9 @@ I'm obsessed with:
 - Helping others get unstuck, especially in tech & design
 - Keeping things *clean, smart, and efficient*
 
+---
 
+## 🔧 Tech Stack Highlights
+```html
+HTML • CSS • JavaScript • WordPress • Elementor
+Photoshop • Vue.js • ChatGPT (Prompt Engineering) • Notion Wizardry
