@@ -1,15 +1,25 @@
-- 👋 Hi, I’m @ALDMC3215
-- 👀 I’m interested in Coding and Gaming 🎮
-- 🌱 I'm trying to be a good developer on Android Studio.
-- 💞️ I’m looking to collaborate on coding comunity.
-- 📫 How to reach me 
-  + Email: aldmc4543@gmail.com
-  + Telegram ID: @ALDMC
-  + Instagram ID: @aldmc_origin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I get crazy when i drink Coffee 😂
+# 👋 Hey, I'm Ali (a.k.a. ALDMC)
 
-<!---
-ALDMC3215/ALDMC3215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 UI/UX Designer • Web Instructor • Creative Coder • Tech Curator
+
+Welcome to my digital playground.  
+I'm all about crafting modern experiences — whether it's intuitive UI, clean code, or smart workflows.
+
+---
+
+## 🚀 What I Do
+- Teach UI/UX, WordPress, Photoshop, HTML, CSS, JS, and ChatGPT Prompting
+- Build systems, tools & creative projects that actually get used
+- Curate powerful digital resources for designers & devs
+- Prototype advanced ideas using AI, 3D, and modern web tech
+
+---
+
+## 🧠 What Drives Me
+I'm obsessed with:
+- Making useful stuff — not just pretty things
+- Systematic learning with deep focus (multitasking pro 🧠⚡)
+- Helping others get unstuck, especially in tech & design
+- Keeping things *clean, smart, and efficient*
+
+
